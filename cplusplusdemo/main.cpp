@@ -24,6 +24,7 @@ int main()
         char b;
     };
     
+    //222222222222
     testSizeof temTestSizeof = {4,'a'};//
     int size = sizeof(temTestSizeof);
     testSizeof *p1;
